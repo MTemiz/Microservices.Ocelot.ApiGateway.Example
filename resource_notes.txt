@@ -1,0 +1,5 @@
+Api1 -> http://localhost:5100
+Api2 -> http://localhost:5072
+Api3 -> http://localhost:5076
+
+Api Gateway -> http://localhost:5258
